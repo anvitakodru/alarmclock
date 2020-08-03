@@ -1,2 +1,2 @@
 # Alarm-Clock
-Structural code for a stopwatch in Verilog HDL
+Structural code for an alarm in Verilog HDL
